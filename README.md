@@ -1,4 +1,4 @@
-# quality-control-bot# 🏭 Quality Control Telegram Bot + Dashboard
+# 🏭 Quality Control Telegram Bot + Dashboard
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://python.org)
 [![Telegram](https://img.shields.io/badge/Telegram-Bot-blue.svg)](https://core.telegram.org/bots)
