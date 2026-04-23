@@ -124,18 +124,3 @@ quality-control-bot/
 
 ---
 
-## 👤 Контакты
-
-- **GitHub:** [ВАШ_ЛОГИН](https://github.com/ВАШ_ЛОГИН)
-- **Email:** ваша_почта@example.com
-- **Проект:** github.com/ВАШ_ЛОГИН/quality-control-bot
-
----
-
-## 📄 Лицензия
-
-MIT License
-
----
-
-⭐ Если этот проект был полезен, поставьте звезду на GitHub!
